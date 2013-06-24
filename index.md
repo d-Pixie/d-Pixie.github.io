@@ -1,6 +1,7 @@
 ---
-title:d-Pixie.github.io
-tagline:Try everything once
+layout: 'default'
+title: 'd-Pixie.github.io'
+tagline: 'Try everything once'
 ---
 ### Welcome to GitHub Pages
 
