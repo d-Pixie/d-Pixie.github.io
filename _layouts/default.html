@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ page.title }}</title>
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="/stylesheets/styles.css">
+    <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -15,9 +15,21 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>d-Pixie.github.io</h1>
+        <h1>{{ page.title }}</h1>
         <p>{{ page.tagline }}</p>
-        <p class="view"><a href="https://github.com/d-Pixie">View My GitHub Profile</a></p>
+        <hr>
+        <p class="view">
+          View my profile on
+          <a href="https://github.com/d-Pixie">GitHub</a>,
+          <a href="http://se.linkedin.com/pub/jonas-schubert-erlandsson/23/581/975/">LinkedIn</a>,
+          <a href="http://careers.stackoverflow.com/dpixie">StackOverflow Careers</a> or
+          <a href="/cv">my CV</a>
+        </p>
+        <p class="view">
+          My contributions
+          <a href="https://github.com/my-codeworks/diffident">Diffident</a>,
+          <a href="stackoverflow.com/users/348482/d-pixie">Stack overflow</a>
+        </p>
       </header>
       <section>
         {{ content }}
@@ -26,7 +38,7 @@
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <script src="javascripts/scale.fix.js"></script>
+    <script src="/javascripts/scale.fix.js"></script>
     
   </body>
 </html>

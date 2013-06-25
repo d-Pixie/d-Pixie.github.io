@@ -1,30 +1,20 @@
 ---
 layout: 'default'
-title: 'd-Pixie.github.io'
-tagline: 'Try everything once'
+title: 'd-Pixie'
+tagline: 'Jonas Schubert Erlandsson'
 ---
-### Welcome to GitHub Pages
+### Hi there
 
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
+Welcome to d-Pixies portfolio page. Here you will find links and summaries on Jonas Schubert Erlandssons professional life.
 
-    $ cd your_repo_root/repo_name
-    $ git fetch origin
-    $ git checkout gh-pages
+### Professional
 
-If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
+In this day and age on the internet it's easy to collect any number of personal and professional profiles, you can find links to most of them to the right. But even if you do your best to keep them all updated and synchronized it's easy to miss something somewhere. And that's why all the fact checked, verified and polished details of the professional life of Jonas up till now has been collected in what the hippster whizz kids today call a "CV". One authoratative source for all the information you need available right here of cause, also to the right.
 
-### Designer Templates
+### Personal
 
-We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.
+Outside of work stuff can also be of some interest, if nothing else you can give this section as a source when you update Jonas' Wikipedia article.
 
-Rather Drive Stick?
+Even outside of work development takes up a lot of time. A constant drive to improve skills and techniques have lead to extensive reading, listerning and watching of books, podcasts, instructional videos, blogs, 
 
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
-
-### Authors and Contributors
-
-You can @mention a GitHub username to generate a link to their profile. The resulting `&lt;a&gt;` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
-
-### Support or Contact
-
-Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
+*Yes it's all written in third person. No I'm not mad, what I know ...*
