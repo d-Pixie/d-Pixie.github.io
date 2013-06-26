@@ -168,6 +168,8 @@ section {
 section img {
   float:right;
   border-radius: 50%;
+  position: relative;
+  top: 20px;
 }
 
 small {
