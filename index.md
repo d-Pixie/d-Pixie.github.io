@@ -17,4 +17,4 @@ Outside of work stuff can also be of some interest, if nothing else you can give
 
 Even outside of work development takes up a lot of time. A constant drive to improve skills and techniques have lead to extensive reading, listerning and watching of books, podcasts, instructional videos, blogs, 
 
-*Yes it's all written in third person. No I'm not mad, what I know ...*
+*Yes it's all written in third person. No I'm not mad, as far as I know ...*
