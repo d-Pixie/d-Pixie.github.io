@@ -5,25 +5,27 @@ tagline: 'Jonas Schubert Erlandsson'
 ---
 ### Hi there
 
-Welcome to d-Pixies portfolio page. Here you will find links and summaries on Jonas Schubert Erlandssons professional life.
+Welcome to d-Pixie's portfolio page. Here you will find links and summaries on Jonas Schubert Erlandsson's professional life.
 
 ### Professional
 
-In this day and age on the internet it's easy to collect any number of personal and professional profiles, you can find links to most of them to the left. We have also collected some, not to much but just enough, samples of previous works for your perusing, enjoy!
+In this day and age on the internet it's easy to collect any number of personal and professional profiles, you can find links to most of them to the left. There is also a collection of some, not to many but just enough, samples of previous works for your perusing, enjoy!
 
 And *even* when you do your best to keep all the profiles updated and synchronized it's easy to miss something somewhere. And that's why all the fact checked, verified and polished details of the professional life of Jonas up till now has been collected in what the hipster whizz-kids today call a "CV". One authoritative source for all the information you need available right here of course, also to the left.
 
 ### Personal
 
-#### The solitary journey
+Outside of work stuff can also be of some interest, if nothing else you can use this section as a source when you update Jonas's Wikipedia article or if you want some backstory for your d-Pixie fan fiction novel.
 
-Outside of work stuff can also be of some interest, if nothing else you can give this section as a source when you update Jonas' Wikipedia article or if you want some backstory for your d-Pixie fan fiction novel.
+#### The solitary journey
 
 Even outside of work development takes up a lot of time. A constant drive to improve skills and techniques have lead to extensive reading, listening and watching of books, podcasts, instructional videos, blogs, lectures and other sources.
 
+Besides the normal consumption of conference talks, Railscast and Ruby tapas Jonas has recently started to buy up the Destroy all software screencast series as well as starting a Thoughtbot Learn Prime membership.
+
 #### Sharing life
 
-When not engrossed in this journey of professional self improvement he enjoys time with his wife, Malin, and their many cats and one dog. Living as they do, in the countryside, they spend a lot of time in the garden trying to keep the weeds at bay while providing for themselves. Self sufficiency is a thought they both enjoy and while it might be pretty far off yet they have a healthy vegetable patch and have already reared pigs.
+When not engrossed in this journey of professional self improvement he enjoys time with his wife, Malin, and their cats and dog. Living as they do, in the countryside, they spend a lot of time in the garden trying to keep the weeds at bay while providing for themselves. Self sufficiency is a thought they both enjoy and while it might be pretty far off yet they have a healthy vegetable patch and have already reared pigs.
 
 #### Non technical nerdery
 

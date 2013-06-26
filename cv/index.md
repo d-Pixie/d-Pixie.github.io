@@ -85,8 +85,8 @@ jonas.schubert.erlandsson@gmail.com
 * Follows research and development in many areas and has taken university courses in history parallel to the computer science degree and follows blogs, podcasts, screencasts, lectures and other channels in science and development.
 * Engaged in communities since 1994, like the 18:th century reenactment club Carlskrona Volontairregemente, and has often held the chair or other board positions.
 * Designed and implemented five CMS's, three in PHP (one including an ORM) and two in Ruby on Rails.
-* Plays disc golf, somethings at a national level.
+* Has played disc golf at a national level.
 
 --------------
 
-*This page is also available in [swedish](/cv-se/), should you want it ...*
+*This page is also available in [Swedish](/cv-se/), should you want it ...*
