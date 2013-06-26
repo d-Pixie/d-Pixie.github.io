@@ -4,88 +4,89 @@ title: 'CV'
 tagline: 'curriculum vitae'
 ---
 ![Picture of Jonas Schubert Erlandsson in sunglasses holding a large glass of te](http://www.gravatar.com/avatar/e1c3d4473d83daf1d88e6e846d60e38b.png?s=150)
-### Personuppgifter
+### Contact information
 Jonas Schubert Erlandsson 790827-3399  
 Vrankunge Hagaborg; 35 597 Växjö  
-0704 - 64 31 88  
++46 704 - 64 31 88  
 jonas.schubert.erlandsson@gmail.com
 
-### Arbetslivserfarenhet
+### Work experience
 
-  Huvudutvecklare | &nbsp;
+  Lead developer | &nbsp;
 -------|--------
-  2012 - | Boss Media
-  oktober - december 2009 | konsult åt Baneki Privacy Computing
+  2012 - | Boss Media AB, Sweden
+  october - december 2009 | consulting for Baneki Privacy Computing Inc
+  juni - augusti 2008 | Ericsson Software Technology, Sweden
 
-  Webbutvecklare | &nbsp;
+  Web developer | &nbsp;
 -------|--------
-  januari - november 2012 | Standout AB
-  1997 - | applikationsutveckling i egen regi
+  januari - november 2012 | Standout AB, Sweden
+  1997 - | application design under own management 
 
-  Designer/utvecklare | &nbsp;
+  Web designer | &nbsp;
 -------|--------
-  juni - augusti 2008 | Ericsson Software Technology, Karlskrona
+  1997 -  | design and web hosting under own management 
+  2006 - 2008 | consulting for stayaway.se
 
-  Webbdesigner | &nbsp;
+  Projekt leader | &nbsp;
 -------|--------
-  1997 -  | design och webhotell i egen regi
-  2006 - 2008 | konsult åt stayaway.se
+  2012 - | Boss Media AB, Sweden
+  2012 | Standout AB, Sweden
+  2010 - 2012 | A Bit of Blue, Sweden
+  2006 - 2007 | Arméns flotta, Sweden
+  2002 - 2003 | Blekinge museum, Sweden
 
-  Projektledarroller | &nbsp;
+  Pedagogical assistant | &nbsp;
 -------|--------
-  2012 - | Boss Media
-  2012 | Standout AB
-  2010 - 2012 | A Bit of Blue
-  2006 - 2007 | eventbolaget Arméns flotta
-  2002 - 2003 | Blekinge museum
+  2002 – 2003 | Blekinge museum, Sweden
 
-  Pedagogisk assistent | &nbsp;
+  Board member | &nbsp;
 -------|--------
-  2002 – 2003 | Blekinge museum
+  2010 - 2011 | Chairman, Carlskrona Volontairregemente
+  1995 - 2003 | Several different nominations, Porslinan youth café, Karlskrona
+  1993 - 1999 | Chairman, the Griffin role playing society
 
-  Styrelseuppdrag | &nbsp;
+### Education
+
+  University | &nbsp;
 -------|--------
-  2010 - 2011 | Ordförande, Carlskrona volontairregemente
-  1995 - 2003 | Diverse, Ungdomens hus i Karlskrona
-  1993 - 1999 | Ordförande, rollspelsföreningen Gripen
+  2004 - 2011 | Masters program in computer science at Uppsala university. Majoring in human-computer interaction (HCI) and theoretical computer science (TCS)
 
-### Utbildning
-
-  Universitet | &nbsp;
+  Post high school | &nbsp;
 -------|--------
-  2004 - 2011 | Datorvetenskapligt masterprogram vid Uppsala universitet. Inriktning mot människa/dator -interaktion (MDI) samt algoritmer och datastrukturer (AD)
+  1999 | Desktop publishing, NTI
+  1998 | Network technology and programing, NTI
 
-  Eftergymnasialt | &nbsp;
+  High school | &nbsp;
 -------|--------
-  1999 | Desktop publishing vid NTI-skolan
-  1998 | Nätverksteknik och programmering vid NTI-skolan
+  1994 - 1997 | Aesthetics and computer programming
 
-  Gymnasium | &nbsp;
+  Miscellaneous | &nbsp;
 -------|--------
-  1994 - 1997 | Specialutformat program vid Chapmangymnasiet i Karlskrona
+  1997 | STS - a 4 week language course in Oxford, England
 
-  Övrigt | &nbsp;
--------|--------
-  1997 | STS - 4 veckors språkkurs i Oxford
+### Knowledge
 
-### Kunskaper
+* Worked continuously with full stack web development and the latest web technologies since 1997.
+* Developed in: Ruby, Javascript, PHP, Java, C, C++, LUA, Pascal, Delphi, SML, Python and Assembler.
+* Worked with many frameworks such as: Ruby on Rails, CodeIgniter, Ember, Angular, JSP/JSF and IceFaces.
+* Very good knowledge in the web standards; HTML, XHTML, XML, CSS and ECMAscript.
+* Has worked in: Windows, Linux (shell, Gnome och Unity), Mac (OSX) and can find his way in System 9, Linux (KDE, etc) and UNIX (Solaris, System V).
+* Held several projekt leaderships, most recently at Boss Media AB and Standout AB.
+* Worked as a software architect/lead developer at, among others, Boss Media AB, Standout AB, A Bit of Blue and Baneki Privacy Computing Inc.
+* Planned, built and administered small to medium networks with around 20 clients and 2-3 servers. Was also responsible for designing the server infrastructure at Standout AB.
+* Taken Ciscos CCNA step one and two as well as Microsofts MCSA for Windows 2000 and 2003 server.
 
-* Har kontinuerligt jobbat med full stack webbutveckling och de senaste webbteknikerna sedan 1997.
-* Har utvecklat i: Ruby, Javascript, PHP, Java, C, C++, LUA, Pascal, Delphi, SML, Python och Assembler.
-* Har jobbat med flera ramverk så som: Ruby on Rails, CodeIgniter, Ember, Angular, JSP/JSF och IceFaces.
-* Mycket goda kunskaper inom webbstandarderna; HTML, XHTML, XML, CSS och ECMAscript.
-* Arbetar obehindrat i: Windows, Linux (shell, Gnome och Unity), Mac (OSX) och hittar även i System9, Linux (KDE, mfl) och UNIX (Solaris, System V).
-* Haft flera projektledande roller, senast på Boss Media och Standout AB.
-* Jobbat som tekniska arkitekt/huvudutvecklare på bland annat Boss Media, Standout AB, A Bit of Blue och Baneki.
-* Har arbetat med att planera, bygga och administrera små till medelstora nätverk med 20-talet klienter och 2-3 servrar. Har även varit ansvarig för att ta fram serverstrategier på Standout AB.
-* Läst Ciscos CCNA steg ett och två samt Microsofts motsvarande MCSA för Windows 2000 och 2003 server.
+### Misc
 
-### Allmänt
+* Created the worlds first fluid 3-col layout in CSS (with some help from Big John and Holly, then of the css-discuss mailing list).
+* Very good problem solving skills, especially in algorithms and optimality. Designed an efficient, polynomial pre solver for stochastic programs for a NP course lead by world renowned professor of theoretical computer science Arne Andersson.
+* Spent two years as the project manager and lead developer for a computer game project together with around 10 other developers and content creators.
+* Follows research and development in many areas and has taken university courses in history parallel to the computer science degree and follows blogs, podcasts, screencasts, lectures and other channels in science and development.
+* Engaged in communities since 1994, like the 18:th century reenactment club Carlskrona Volontairregemente, and has often held the chair or other board positions.
+* Designed and implemented five CMS's, three in PHP (one including an ORM) and two in Ruby on Rails.
+* Plays disc golf, somethings at a national level.
 
-* Världens första mjuka 3-col layout i CSS (tillsammans med Big John och Holly).
-* Mycket god problemlösningsförmåga, speciellt inom algoritmer och optimalitet. Designade som slutuppgift i en NP-algoritmkurs, ledd av Arne Andersson, en effektiv, polynomial, för-lösare till stokastiska program.
-* Projektledare och koordinator för ett spelprojekt tillsammans med ett tiotal andra utvecklare och innehållsskapare.
-* Följer forskning och utveckling inom många olika områden och har bland annat läst universitetskurser i historia vid sidan om den datavetenskapliga utbildningen samt följer bloggar, pod/screen -casts, föreläsningar och andra källor inom utveckling och vetenskap.
-* Engagerad i föreningsliv sedan 1994, senast i föreningen Carlskrona Volontairregemente, och har ofta hållit ordförandeskap eller andra styrelseposter.
-* Designat och implementerat fem CMS, tre i PHP och två i Ruby on Rails.
-* Spelat discgolf på SM-nivå.
+--------------
+
+*This page is also available in [swedish](/cv-se/), should you want it ...*
