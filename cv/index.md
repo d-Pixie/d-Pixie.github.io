@@ -11,72 +11,81 @@ Vrankunge Hagaborg; 35 597 Växjö
 jonas.schubert.erlandsson@gmail.com
 
 ### Arbetslivserfarenhet
-<table>
-  <tr><th colspan="2">Huvudutvecklare</th></th>
-  <tr><td>2012 -</td><td>Boss Media</td></tr>
-  <tr><td>oktober - december 2009</td><td>konsult åt Baneki Privacy Computing</td></tr>
 
-  <tr><th colspan="2">Webbutvecklare</th></th>
-  <tr><td>januari - november 2012</td><td>Standout AB</td></tr>
-  <tr><td>1997 -</td><td>applikationsutveckling i egen regi</td></tr>
+  Huvudutvecklare | &nbsp;
+-------|--------
+  2012 - | Boss Media
+  oktober - december 2009 | konsult åt Baneki Privacy Computing
 
-  <tr><th colspan="2">Designer/utvecklare</tr></th>
-  <tr><td>juni - augusti 2008</td><td>Ericsson Software Technology, Karlskrona</td></tr>
+  Webbutvecklare | &nbsp;
+-------|--------
+  januari - november 2012 | Standout AB
+  1997 - | applikationsutveckling i egen regi
 
-  <tr><th colspan="2">Webbdesigner</tr></th>
-  <tr><td>1997 - </td><td>design och webhotell i egen regi</td></tr>
-  <tr><td>2006 - 2008</td><td>konsult åt stayaway.se</td></tr>
+  Designer/utvecklare | &nbsp;
+-------|--------
+  juni - augusti 2008 | Ericsson Software Technology, Karlskrona
 
-  <tr><th colspan="2">Projektledarroller</tr></th>
-  <tr><td>2012 -      </td><td>Boss Media</td></tr>
-  <tr><td>2012        </td><td>Standout AB</td></tr>
-  <tr><td>2010 - 2012 </td><td>A Bit of Blue</td></tr>
-  <tr><td>2006 - 2007 </td><td>för eventbolaget Arméns flotta</td></tr>
-  <tr><td>2002 - 2003 </td><td>Blekinge museum</td></tr>
+  Webbdesigner | &nbsp;
+-------|--------
+  1997 -  | design och webhotell i egen regi
+  2006 - 2008 | konsult åt stayaway.se
 
-  <tr><th colspan="2">Pedagogisk assistent</tr></th>
-  <tr><td>September 2002 – mars 2003 </td><td>på Blekinge museum</td></tr>
+  Projektledarroller | &nbsp;
+-------|--------
+  2012 - | Boss Media
+  2012 | Standout AB
+  2010 - 2012 | A Bit of Blue
+  2006 - 2007 | eventbolaget Arméns flotta
+  2002 - 2003 | Blekinge museum
 
-  <tr><th colspan="2">Styrelseuppdrag</tr></th>
-  <tr><td>2010 - 2011 </td><td>Ordförande, Carlskrona volontairregemente</td></tr>
-  <tr><td>1995 - 2003 </td><td>Diverse, Ungdomens hus i Karlskrona</td></tr>
-  <tr><td>1993 - 1999 </td><td>Ordförande, rollspelsföreningen Gripen</td></tr>
-</table>
+  Pedagogisk assistent | &nbsp;
+-------|--------
+  2002 – 2003 | Blekinge museum
+
+  Styrelseuppdrag | &nbsp;
+-------|--------
+  2010 - 2011 | Ordförande, Carlskrona volontairregemente
+  1995 - 2003 | Diverse, Ungdomens hus i Karlskrona
+  1993 - 1999 | Ordförande, rollspelsföreningen Gripen
 
 ### Utbildning
-<table>
-  <tr><th colspan="2">Universitet</tr></th>
-  <tr><td>2004 - 2011</td><td>Datorvetenskapligt masterprogram vid Uppsala universitet. Inriktning mot människa/dator -interaktion (MDI) samt algoritmer och datastrukturer (AD)</td></tr>
 
-  <tr><th colspan="2">Eftergymnasialt</tr></th>
-  <tr><td>1999</td><td>Desktop publishing vid NTI-skolan</td></tr>
-  <tr><td>1998</td><td>Nätverksteknik och programmering vid NTI-skolan</td></tr>
+  Universitet | &nbsp;
+-------|--------
+  2004 - 2011 | Datorvetenskapligt masterprogram vid Uppsala universitet. Inriktning mot människa/dator -interaktion (MDI) samt algoritmer och datastrukturer (AD)
 
-  <tr><th colspan="2">Gymnasium</tr></th>
-  <tr><td>1994 - 1997</td><td>Specialutformat program vid Chapmangymnasiet i Karlskrona</td></tr>
+  Eftergymnasialt | &nbsp;
+-------|--------
+  1999 | Desktop publishing vid NTI-skolan
+  1998 | Nätverksteknik och programmering vid NTI-skolan
 
-  <tr><th colspan="2">Övrigt</tr></th>
-  <tr><td>1997</td><td>STS - 4 veckors språkkurs i Oxford</td></tr>
-</table>
+  Gymnasium | &nbsp;
+-------|--------
+  1994 - 1997 | Specialutformat program vid Chapmangymnasiet i Karlskrona
+
+  Övrigt | &nbsp;
+-------|--------
+  1997 | STS - 4 veckors språkkurs i Oxford
 
 ### Kunskaper
 
-* Har utvecklat i: Ruby, Javascript, PHP, Java, C/C++, LUA, Pascal, Delphi, SML, MS C/C++, Ruby on Rails, Python, Assembler.
-* Bekant med följande miljöer: Borland IDE, Visual Studio, Eclipse, NetBeans, Aptana web studio, Code::Blocks och just nu använder jag Sublime Text 2.
-* Mycket goda kunskaper inom webbstandarderna; HTML, XHTML, XML, CSS, ECMAscript.
+* Har kontinuerligt jobbat med full stack webbutveckling och de senaste webbteknikerna sedan 1997.
+* Har utvecklat i: Ruby, Javascript, PHP, Java, C, C++, LUA, Pascal, Delphi, SML, Python och Assembler.
+* Har jobbat med flera ramverk så som: Ruby on Rails, CodeIgniter, Ember, Angular, JSP/JSF och IceFaces.
+* Mycket goda kunskaper inom webbstandarderna; HTML, XHTML, XML, CSS och ECMAscript.
 * Arbetar obehindrat i: Windows, Linux (shell, Gnome och Unity), Mac (OSX) och hittar även i System9, Linux (KDE, mfl) och UNIX (Solaris, System V).
+* Haft flera projektledande roller, senast på Boss Media och Standout AB.
+* Jobbat som tekniska arkitekt/huvudutvecklare på bland annat Boss Media, Standout AB, A Bit of Blue och Baneki.
 * Har arbetat med att planera, bygga och administrera små till medelstora nätverk med 20-talet klienter och 2-3 servrar. Har även varit ansvarig för att ta fram serverstrategier på Standout AB.
 * Läst Ciscos CCNA steg ett och två samt Microsofts motsvarande MCSA för Windows 2000 och 2003 server.
 
 ### Allmänt
 
-* Mycket god problemlösningsförmåga, speciellt inom algoritmer och optimalitet. Designade som slutuppgift i en NP-algoritmkurs, ledd av Arne Andersson, en effektiv, polynomial, för-lösare till stokastiska program.
-* Började programmera i unga år, har i dagsläget provat på alla de stora operativsystemen som utvecklingsplattform (Windows, Linux/UNIX samt OSX).
-* Projektledare och koordinator för ett spelprojekt tillsammans med ett tiotal andra utvecklare och innehållsskapare.
-* Haft flera projektledande roller. Senast på Boss Media och Standout AB
-* Flera tekniska huvudarkitekt roller på Boss Media, Standout AB, A Bit of Blue och Baneki.
 * Världens första mjuka 3-col layout i CSS (tillsammans med Big John och Holly).
+* Mycket god problemlösningsförmåga, speciellt inom algoritmer och optimalitet. Designade som slutuppgift i en NP-algoritmkurs, ledd av Arne Andersson, en effektiv, polynomial, för-lösare till stokastiska program.
+* Projektledare och koordinator för ett spelprojekt tillsammans med ett tiotal andra utvecklare och innehållsskapare.
 * Följer forskning och utveckling inom många olika områden och har bland annat läst universitetskurser i historia vid sidan om den datavetenskapliga utbildningen samt följer bloggar, pod/screen -casts, föreläsningar och andra källor inom utveckling och vetenskap.
-* Engagerad i föreningsliv sedan drygt 16 år tillbaka, senast i föreningen Carlskrona Volontairregemente, och har ofta hållit ordförandeskap eller andra styrelseposter.
+* Engagerad i föreningsliv sedan 1994, senast i föreningen Carlskrona Volontairregemente, och har ofta hållit ordförandeskap eller andra styrelseposter.
 * Designat och implementerat fem CMS, tre i PHP och två i Ruby on Rails.
-* Spelat på SM-nivå i discgolf.
+* Spelat discgolf på SM-nivå.

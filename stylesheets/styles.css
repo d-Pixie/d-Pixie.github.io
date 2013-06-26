@@ -82,6 +82,10 @@ th, td {
   border-bottom:1px solid #e5e5e5;
 }
 
+td:first-child {
+  width: 40%;
+}
+
 dt {
   color:#444;
   font-weight:700;
@@ -165,11 +169,13 @@ section {
   padding-bottom:50px;
 }
 
+section > p:first-child {
+  margin: 0;
+}
+
 section img {
   float:right;
   border-radius: 50%;
-  position: relative;
-  top: 20px;
 }
 
 small {
