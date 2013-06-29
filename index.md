@@ -9,9 +9,9 @@ Welcome to d-Pixie's portfolio page. Here you will find links and summaries on J
 
 ### Professional
 
-In this day and age on the internet it's easy to collect any number of personal and professional profiles, you can find links to most of them to the left. There is also a collection of some, not to many but just enough, samples of previous works for your perusing, enjoy!
+In this day and age on the internet it's easy to collect any number of personal and professional profiles, you can find links to most of them in the menu. There is also a collection of some, not too many but just enough, samples of previous works for your perusing, enjoy!
 
-And *even* when you do your best to keep all the profiles updated and synchronized it's easy to miss something somewhere. And that's why all the fact checked, verified and polished details of the professional life of Jonas up till now has been collected in what the hipster whizz-kids today call a "CV". One authoritative source for all the information you need available right here of course, also to the left.
+And *even* when you do your best to keep all the profiles updated and synchronized it's easy to miss something somewhere. And that's why all the fact checked, verified and polished details of the professional life of Jonas up till now has been collected in what the hipster whizz-kids today call a "CV". One authoritative source for all the information you need available right here of course, also in the menu.
 
 ### Personal
 
