@@ -19,7 +19,7 @@ Outside of work stuff can also be of some interest, if nothing else you can use 
 
 #### The solitary journey
 
-Even outside of work development takes up a lot of time. A constant drive to improve skills and techniques have lead to extensive reading, listening and watching of books, podcasts, instructional videos, blogs, lectures and other sources.
+Even outside of work development takes up a lot of time. A constant drive to improve skills and techniques has led to extensive reading, listening and watching of books, podcasts, instructional videos, blogs, lectures and other sources.
 
 Besides the normal consumption of conference talks, Railscast and Ruby tapas Jonas has recently started to buy up the Destroy all software screencast series as well as starting a Thoughtbot Learn Prime membership.
 
