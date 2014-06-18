@@ -269,4 +269,12 @@ footer {
   a:after {
     content: " (" attr(href) ")";
   }
+
+  h3 {
+    page-break-before:always;
+  }
+
+  section {
+    padding-top:2in;
+  }
 }

@@ -14,7 +14,8 @@ jonas.schubert.erlandsson@gmail.com
 
   Lead developer | &nbsp;
 -------|--------
-  2012 - | Boss Media AB, Sweden
+  2013 - | Fortnox AB, Sweden
+  2012 - 2013 | Boss Media AB, Sweden
   october - december 2009 | consulting for Baneki Privacy Computing Inc
   juni - augusti 2008 | Ericsson Software Technology, Sweden
 
@@ -30,7 +31,7 @@ jonas.schubert.erlandsson@gmail.com
 
   Projekt leader | &nbsp;
 -------|--------
-  2012 - | Boss Media AB, Sweden
+  2012 - 2013 | Boss Media AB, Sweden
   2012 | Standout AB, Sweden
   2010 - 2012 | A Bit of Blue, Sweden
   2006 - 2007 | Arméns flotta, Sweden
@@ -43,8 +44,8 @@ jonas.schubert.erlandsson@gmail.com
   Board member | &nbsp;
 -------|--------
   2010 - 2011 | Chairman, Carlskrona Volontairregemente
-  1995 - 2003 | Several different nominations, Porslinan youth café, Karlskrona
-  1993 - 1999 | Chairman, the Griffin role playing society
+  1995 - 2003 | Several different positions, Porslinan youth café, Karlskrona
+  1993 - 1999 | Chairman, Gripen ( a role playing society )
 
 ### Education
 

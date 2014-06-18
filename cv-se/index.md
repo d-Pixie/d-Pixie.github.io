@@ -14,7 +14,8 @@ jonas.schubert.erlandsson@gmail.com
 
   Huvudutvecklare | &nbsp;
 -------|--------
-  2012 - | Boss Media
+  2013 - | Fortnox AB
+  2012 - 2013 | Boss Media
   oktober - december 2009 | konsult åt Baneki Privacy Computing
   juni - augusti 2008 | Ericsson Software Technology, Karlskrona
 
@@ -30,7 +31,7 @@ jonas.schubert.erlandsson@gmail.com
 
   Projektledarroller | &nbsp;
 -------|--------
-  2012 - | Boss Media
+  2012 - 2013 | Boss Media
   2012 | Standout AB
   2010 - 2012 | A Bit of Blue
   2006 - 2007 | eventbolaget Arméns flotta
