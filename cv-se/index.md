@@ -6,7 +6,7 @@ tagline: 'curriculum vitae'
 ![Picture of Jonas Schubert Erlandsson in sunglasses holding a large glass of te](http://www.gravatar.com/avatar/e1c3d4473d83daf1d88e6e846d60e38b.png?s=150)
 ### Personuppgifter
 Jonas Schubert Erlandsson 790827-3399  
-Vrankunge Hagaborg; 35 597 Växjö  
+Torsås by, Turagård 3; 34 253 Lönashult
 0704 - 64 31 88  
 jonas.schubert.erlandsson@gmail.com
 
