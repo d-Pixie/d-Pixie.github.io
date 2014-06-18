@@ -37,10 +37,6 @@ jonas.schubert.erlandsson@gmail.com
   2006 - 2007 | eventbolaget Arméns flotta
   2002 - 2003 | Blekinge museum
 
-  Pedagogisk assistent | &nbsp;
--------|--------
-  2002 – 2003 | Blekinge museum
-
   Styrelseuppdrag | &nbsp;
 -------|--------
   2010 - 2011 | Ordförande, Carlskrona volontairregemente

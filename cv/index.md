@@ -37,10 +37,6 @@ jonas.schubert.erlandsson@gmail.com
   2006 - 2007 | Arméns flotta, Sweden
   2002 - 2003 | Blekinge museum, Sweden
 
-  Pedagogical assistant | &nbsp;
--------|--------
-  2002 – 2003 | Blekinge museum, Sweden
-
   Board member | &nbsp;
 -------|--------
   2010 - 2011 | Chairman, Carlskrona Volontairregemente
