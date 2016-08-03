@@ -25,7 +25,7 @@ Besides the normal consumption of conference talks, Railscast and Ruby tapas Jon
 
 #### Sharing life
 
-When not engrossed in this journey of professional self improvement he enjoys time with his wife, Malin, and their cats and dog. Living as they do, in the countryside, they spend a lot of time in the garden trying to keep the weeds at bay while providing for themselves. Self sufficiency is a thought they both enjoy and while it might be pretty far off yet they have a healthy vegetable patch and have already reared pigs.
+When not engrossed in this journey of professional self improvement he enjoys time with his wife, Malin, their, to date, two kids and their animals. Living as they do, in the countryside, they spend a lot of time in the garden trying to keep the weeds at bay while providing for themselves. Self sufficiency is a thought they both enjoy and while it might be pretty far off yet they have a healthy vegetable patch and keep some chickens.
 
 #### Non technical nerdery
 
