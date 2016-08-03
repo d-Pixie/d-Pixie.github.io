@@ -37,4 +37,4 @@ So feel free to stop by for some home reared and cured bacon and a cup of the ho
 
 --------------
 
-*Yes it's all written in third person. No I'm not mad, as far as I know ...*
+*Yes it's all written in third person. No I'm not mad, as far as I can tell ...*
