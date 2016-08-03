@@ -6,6 +6,7 @@ tagline: 'curriculum vitae'
 ![Most recent Gravatar picture of Jonas Schubert Erlandsson](http://www.gravatar.com/avatar/e1c3d4473d83daf1d88e6e846d60e38b.png?s=150)
 
 ### Contact information
+
 Jonas Schubert Erlandsson 790827-3399  
 Bjärby backe 7; 370 24 Nättraby, Sweden  
 +46 704 - 64 31 88  
