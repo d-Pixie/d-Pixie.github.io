@@ -3,9 +3,9 @@ layout: 'default'
 title: 'CV'
 tagline: 'curriculum vitae'
 ---
-![Most recent Gravatar picture of Jonas Schubert Erlandsson](http://www.gravatar.com/avatar/e1c3d4473d83daf1d88e6e846d60e38b.png?s=150)
-
 ### Contact information
+
+![Most recent Gravatar picture of Jonas Schubert Erlandsson](http://www.gravatar.com/avatar/e1c3d4473d83daf1d88e6e846d60e38b.png?s=150)
 
 Jonas Schubert Erlandsson 790827-3399  
 Bjärby backe 7; 370 24 Nättraby, Sweden  
@@ -75,6 +75,8 @@ jonas.schubert.erlandsson@gmail.com
 
 ### Knowledge and experience
 
+## Featured
+
 * Lectured at university and held internal training courses in code quality, testing and design principles.
 * Consults with other companies to validate their architecture and infrastructure designs.
 * Worked continuously with full stack web development using a wide variety of web technologies since 1997.
@@ -84,7 +86,7 @@ jonas.schubert.erlandsson@gmail.com
 * Very good knowledge of the web standards; HTML, XHTML, XML, CSS and Javascript/ES6.
 * Works in: Windows (95 - 10), Linux (shell, Gnome and Unity) and Mac OS X.
 
-### Misc
+## Misc
 
 * Won several awards for his ideas on how to improve products and his creative coding skills.
 * Created the worlds first fluid 3-col layout in CSS around 2003 (with some help from Big John and Holly Bergevin on the css-discuss.org mailing list).
