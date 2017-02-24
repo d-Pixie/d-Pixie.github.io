@@ -285,7 +285,7 @@ footer {
     display:table-row;
   }
 
-  section p:last-child, footer {
+  section p:last-child, footer, hr {
     display: none;
   }
 }

@@ -3,9 +3,9 @@ layout: 'default'
 title: 'CV'
 tagline: 'curriculum vitae'
 ---
-![Nyaste bilden på Jonas från Gravatar](http://www.gravatar.com/avatar/e1c3d4473d83daf1d88e6e846d60e38b.png?s=150)
-
 ### Personuppgifter
+
+![Nyaste bilden på Jonas från Gravatar](http://www.gravatar.com/avatar/e1c3d4473d83daf1d88e6e846d60e38b.png?s=150)
 
 Jonas Schubert Erlandsson 790827-3399  
 Bjärby backe 7; 370 24 Nättraby  
@@ -73,7 +73,9 @@ jonas.schubert.erlandsson@gmail.com
 -------|--------
   1997 | STS - 4 veckors språkkurs i Oxford
 
-### Kunskap och erfarenheter
+### Kunskaper och erfarenheter
+
+## Tekniska
 
 * Föreläst på universitet och drivit internutbildningar kring kodkvalité, testning och designprinciper.
 * Konsultuppdrag för andra företag med att validera deras tekniska arkitektur och infrastruktursdesign.
@@ -84,7 +86,7 @@ jonas.schubert.erlandsson@gmail.com
 * Mycket goda kunskaper inom webbstandarderna; HTML, XHTML, XML, CSS och Javascript/ES6.
 * Arbetar obehindrat i: Windows (95 - 10), Linux (shell, Gnome och Unity) och Mac OS X.
 
-### Allmänt
+## Allmänna
 
 * Världens första mjuka 3-col layout i CSS kring 2003 (tillsammans med Big John och Holly Bergevin på mailing listan css-discuss.org).
 * Mycket god problemlösningsförmåga, speciellt inom algoritmer och optimalitet. Designade som slutuppgift i en NP-algoritmkurs, ledd av Arne Andersson, en effektiv, polynomial, för-lösare till stokastiska program.
