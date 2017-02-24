@@ -3,7 +3,7 @@ layout: 'default'
 title: 'CV'
 tagline: 'curriculum vitae'
 ---
-![Picture of Jonas Schubert Erlandsson in sunglasses holding a large glass of te](http://www.gravatar.com/avatar/e1c3d4473d83daf1d88e6e846d60e38b.png?s=150)
+![Nyaste bilden på Jonas från Gravatar](http://www.gravatar.com/avatar/e1c3d4473d83daf1d88e6e846d60e38b.png?s=150)
 
 ### Personuppgifter
 
@@ -14,9 +14,16 @@ jonas.schubert.erlandsson@gmail.com
 
 ### Arbetslivserfarenhet
 
+  CTO / Utvecklingsansvarig | &nbsp;
+-------|--------
+  2011 - | my codeworks AB
+  2015 - 2016 | Replay Gaming Ltd, United Kingdom
+  2010 - 2012 | A Bit of Blue, Sweden
+
   Huvudutvecklare | &nbsp;
 -------|--------
-  2013 - | Fortnox AB
+  2015 - 2016 | Replay Gaming Ltd, United Kingdom
+  2013 - 2015 | Fortnox AB, Sweden
   2012 - 2013 | Boss Media
   oktober - december 2009 | konsult åt Baneki Privacy Computing
   juni - augusti 2008 | Ericsson Software Technology, Karlskrona
@@ -24,16 +31,17 @@ jonas.schubert.erlandsson@gmail.com
   Webbutvecklare | &nbsp;
 -------|--------
   januari - november 2012 | Standout AB
-  1997 - | applikationsutveckling i egen regi
+  1997 - 2011 | applikationsutveckling i egen regi
 
   Webbdesigner | &nbsp;
 -------|--------
-  1997 -  | design och webhotell i egen regi
+  1997 - 2011 | design och webbhosting i egen regi
   2006 - 2008 | konsult åt stayaway.se
 
   Projektledarroller | &nbsp;
 -------|--------
-  2012 - 2013 | Boss Media
+  2015 - 2016 | Replay Gaming Ltd, United Kingdom
+  2012 - 2013 | Boss Media AB, Sweden
   2012 | Standout AB
   2010 - 2012 | A Bit of Blue
   2006 - 2007 | eventbolaget Arméns flotta
@@ -41,6 +49,7 @@ jonas.schubert.erlandsson@gmail.com
 
   Styrelseuppdrag | &nbsp;
 -------|--------
+  2016 - | Grundare och ordförande, Blekinge förening för frisbeesport
   2010 - 2011 | Ordförande, Carlskrona volontairregemente
   1995 - 2003 | Diverse, Ungdomens hus i Karlskrona
   1993 - 1999 | Ordförande, rollspelsföreningen Gripen
@@ -64,21 +73,20 @@ jonas.schubert.erlandsson@gmail.com
 -------|--------
   1997 | STS - 4 veckors språkkurs i Oxford
 
-### Kunskaper
+### Kunskap och erfarenheter
 
-* Har kontinuerligt jobbat med full stack webbutveckling och de senaste webbteknikerna sedan 1997.
-* Har utvecklat i: Ruby, Javascript, PHP, Java, C, C++, LUA, Pascal, Delphi, SML, Python och Assembler.
-* Har jobbat med flera ramverk så som: Ruby on Rails, CodeIgniter, Ember, Angular, JSP/JSF och IceFaces.
-* Mycket goda kunskaper inom webbstandarderna; HTML, XHTML, XML, CSS och ECMAscript.
-* Arbetar obehindrat i: Windows, Linux (shell, Gnome och Unity), Mac (OSX) och hittar även i System9, Linux (KDE, mfl) och UNIX (Solaris, System V).
-* Haft flera projektledande roller, senast på Boss Media och Standout AB.
-* Jobbat som tekniska arkitekt/huvudutvecklare på bland annat Boss Media, Standout AB, A Bit of Blue och Baneki.
-* Har arbetat med att planera, bygga och administrera små till medelstora nätverk med 20-talet klienter och 2-3 servrar. Har även varit ansvarig för att ta fram serverstrategier på Standout AB.
-* Läst Ciscos CCNA steg ett och två samt Microsofts motsvarande MCSA för Windows 2000 och 2003 server.
+* Föreläst på universitet och drivit internutbildningar kring kodkvalité, testning och designprinciper.
+* Konsultuppdrag för andra företag med att validera deras tekniska arkitektur och infrastruktursdesign.
+* Har kontinuerligt jobbat som fullstack webbutvecklare med en rad olika webbteknikerna sedan 1997.
+* Lång och varierad erfarenhet i att leda tekniska team och driva tekniska beslut.
+* Har utvecklat i: Go, Elixir, Ruby, Javascript, PHP, Java, C, C++, LUA, Pascal, Delphi, SML, Python, Assembler med flera.
+* Har jobbat med flera ramverk så som: Ruby on Rails, Sinatra, Rack, Ember, Backbone och React/Redux.
+* Mycket goda kunskaper inom webbstandarderna; HTML, XHTML, XML, CSS och Javascript/ES6.
+* Arbetar obehindrat i: Windows (95 - 10), Linux (shell, Gnome och Unity) och Mac OS X.
 
 ### Allmänt
 
-* Världens första mjuka 3-col layout i CSS (tillsammans med Big John och Holly).
+* Världens första mjuka 3-col layout i CSS kring 2003 (tillsammans med Big John och Holly Bergevin på mailing listan css-discuss.org).
 * Mycket god problemlösningsförmåga, speciellt inom algoritmer och optimalitet. Designade som slutuppgift i en NP-algoritmkurs, ledd av Arne Andersson, en effektiv, polynomial, för-lösare till stokastiska program.
 * Projektledare och koordinator för ett spelprojekt tillsammans med ett tiotal andra utvecklare och innehållsskapare.
 * Följer forskning och utveckling inom många olika områden och har bland annat läst universitetskurser i historia vid sidan om den datavetenskapliga utbildningen samt följer bloggar, pod/screen -casts, föreläsningar och andra källor inom utveckling och vetenskap.
