@@ -26,6 +26,7 @@ h1 {
 
 h2 {
   color:#393939;
+  font-size: 1em;
 }
 
 h3, h4, h5, h6 {
@@ -96,6 +97,8 @@ th {
 }
 
 img {
+  position: relative;
+  top: -1.5em;
   max-width:100%;
 }
 
@@ -280,5 +283,9 @@ footer {
 
   thead {
     display:table-row;
+  }
+
+  section p:last-child, footer {
+    display: none;
   }
 }
