@@ -52,7 +52,6 @@ jonas.schubert.erlandsson@gmail.com
   2016 - | Founder and chairman, Blekinge förening för frisbeesport ( a disc sport club )
   2010 - 2011 | Chairman, Carlskrona Volontairregemente ( a 18th century reenactment group )
   1995 - 2003 | Several different positions, Porslinan ( a youth café in Karlskrona )
-  1993 - 1999 | Chairman, Gripen ( a role playing society )
 
 ### Education
 
