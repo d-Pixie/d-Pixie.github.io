@@ -289,6 +289,10 @@ footer {
     page-break-before:always;
   }
 
+  header img {
+    display: none;
+  }
+
   section {
     padding-top:2in;
   }
