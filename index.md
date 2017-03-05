@@ -23,7 +23,7 @@ Even outside of work development takes up a lot of time. A constant drive to imp
 
 Besides the normal consumption of conference talks, Railscasts and Ruby tapas Jonas has bought up all the "Destroy all software" screencasts as well as "Learn react" and "Watch me code".
 
-All these casts and lectures must have rubbed off since he is now starting a podcast, http://devolutionpodcast.com, planning a screencasting series on refactoring to launch at Teachery and holding lectures left and right about clean code, SOLID, testing and I don't know what else...
+All these casts and lectures must have rubbed off since he is now [starting a podcast](http://devolutionpodcast.com), planning a screencasting series on refactoring to launch at Teachery and holding lectures left and right about clean code, SOLID, testing and I don't know what else...
 
 #### Sharing life
 
