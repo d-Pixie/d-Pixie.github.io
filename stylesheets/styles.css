@@ -115,6 +115,10 @@ header {
   position:fixed;
 }
 
+header img {
+  border-radius: 50%;
+}
+
 header ul {
   list-style:none;
   height:40px;
@@ -186,6 +190,7 @@ section > p:first-child {
 section img {
   float:right;
   border-radius: 50%;
+  display: none;
 }
 
 small {
@@ -286,6 +291,10 @@ footer {
 
   section {
     padding-top:2in;
+  }
+
+  section img {
+    display: block;
   }
 
   thead {
