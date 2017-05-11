@@ -8,7 +8,7 @@ tagline: 'curriculum vitae'
 ![Most recent Gravatar picture of Jonas Schubert Erlandsson](http://www.gravatar.com/avatar/e1c3d4473d83daf1d88e6e846d60e38b.png?s=150)
 
 Jonas Schubert Erlandsson 790827-3399  
-Bjärby backe 7; 370 24 Nättraby, Sweden  
+Bjärby backe 7; 373 33 Nättraby, Sweden  
 +46 704 - 64 31 88  
 jonas.schubert.erlandsson@gmail.com
 
@@ -22,10 +22,11 @@ jonas.schubert.erlandsson@gmail.com
 
   Lead developer | &nbsp;
 -------|--------
+  2017 - | Softhouse AB, Sweden
   2015 - 2016 | Replay Gaming Ltd, United Kingdom
   2013 - 2015 | Fortnox AB, Sweden
   2012 - 2013 | Boss Media AB, Sweden
-  October - December 2009 | consulting for Baneki Privacy Computing Inc
+  October - December 2009 | consulting for Baneki Privacy Computing Inc, USA
   June - August 2008 | Ericsson Software Technology, Sweden
 
   Web developer | &nbsp;

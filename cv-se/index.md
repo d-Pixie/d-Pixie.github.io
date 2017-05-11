@@ -8,7 +8,7 @@ tagline: 'curriculum vitae'
 ![Nyaste bilden på Jonas från Gravatar](http://www.gravatar.com/avatar/e1c3d4473d83daf1d88e6e846d60e38b.png?s=150)
 
 Jonas Schubert Erlandsson 790827-3399  
-Bjärby backe 7; 370 24 Nättraby  
+Bjärby backe 7; 373 33 Nättraby  
 0704 - 64 31 88  
 jonas.schubert.erlandsson@gmail.com
 
@@ -17,20 +17,21 @@ jonas.schubert.erlandsson@gmail.com
   CTO / Utvecklingsansvarig | &nbsp;
 -------|--------
   2011 - | my codeworks AB
-  2015 - 2016 | Replay Gaming Ltd, United Kingdom
-  2010 - 2012 | A Bit of Blue, Sweden
+  2015 - 2016 | Replay Gaming Ltd, Storbritannien
+  2010 - 2012 | A Bit of Blue, Uppsala
 
   Huvudutvecklare | &nbsp;
 -------|--------
-  2015 - 2016 | Replay Gaming Ltd, United Kingdom
-  2013 - 2015 | Fortnox AB, Sweden
-  2012 - 2013 | Boss Media
-  oktober - december 2009 | konsult åt Baneki Privacy Computing
+  2017 - | Softhouse AB, Karlskrona
+  2015 - 2016 | Replay Gaming Ltd, Storbritannien
+  2013 - 2015 | Fortnox AB, Växjö
+  2012 - 2013 | Boss Media, Växjö
+  oktober - december 2009 | konsult åt Baneki Privacy Computing, USA
   juni - augusti 2008 | Ericsson Software Technology, Karlskrona
 
   Webbutvecklare | &nbsp;
 -------|--------
-  januari - november 2012 | Standout AB
+  januari - november 2012 | Standout AB, Växjö
   1997 - 2011 | applikationsutveckling i egen regi
 
   Webbdesigner | &nbsp;
@@ -40,12 +41,12 @@ jonas.schubert.erlandsson@gmail.com
 
   Projektledarroller | &nbsp;
 -------|--------
-  2015 - 2016 | Replay Gaming Ltd, United Kingdom
-  2012 - 2013 | Boss Media AB, Sweden
-  2012 | Standout AB
-  2010 - 2012 | A Bit of Blue
-  2006 - 2007 | eventbolaget Arméns flotta
-  2002 - 2003 | Blekinge museum
+  2015 - 2016 | Replay Gaming Ltd, Storbritannien
+  2012 - 2013 | Boss Media AB, Växjö
+  2012 | Standout AB, Växjö
+  2010 - 2012 | A Bit of Blue, Uppsala
+  2006 - 2007 | eventbolaget Arméns flotta, Karlskrona
+  2002 - 2003 | Blekinge museum, Karlskrona
 
   Styrelseuppdrag | &nbsp;
 -------|--------
