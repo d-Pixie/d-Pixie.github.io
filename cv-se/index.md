@@ -20,6 +20,16 @@ jonas.schubert.erlandsson@gmail.com
   2015 - 2016 | Replay Gaming Ltd, Storbritannien
   2010 - 2012 | A Bit of Blue, Uppsala
 
+  Projekt/Arkitektur lead | &nbsp;
+-------|--------
+  mars - december 2017 | VEON, Amsterdam (via Qvantel och Softhouse)
+  2015 - 2016 | Replay Gaming Ltd, Storbritannien
+  2012 - 2013 | Boss Media AB, Växjö
+  2012 | Standout AB, Växjö
+  2010 - 2012 | A Bit of Blue, Uppsala
+  2006 - 2007 | eventbolaget Arméns flotta, Karlskrona
+  2002 - 2003 | Blekinge museum, Karlskrona
+
   Huvudutvecklare | &nbsp;
 -------|--------
   2017 - | Softhouse AB, Karlskrona
@@ -29,31 +39,11 @@ jonas.schubert.erlandsson@gmail.com
   oktober - december 2009 | konsult åt Baneki Privacy Computing, USA
   juni - augusti 2008 | Ericsson Software Technology, Karlskrona
 
-  Webbutvecklare | &nbsp;
--------|--------
-  januari - november 2012 | Standout AB, Växjö
-  1997 - 2011 | applikationsutveckling i egen regi
-
-  Webbdesigner | &nbsp;
--------|--------
-  1997 - 2011 | design och webbhosting i egen regi
-  2006 - 2008 | konsult åt stayaway.se
-
-  Projektledarroller | &nbsp;
--------|--------
-  2015 - 2016 | Replay Gaming Ltd, Storbritannien
-  2012 - 2013 | Boss Media AB, Växjö
-  2012 | Standout AB, Växjö
-  2010 - 2012 | A Bit of Blue, Uppsala
-  2006 - 2007 | eventbolaget Arméns flotta, Karlskrona
-  2002 - 2003 | Blekinge museum, Karlskrona
-
   Styrelseuppdrag | &nbsp;
 -------|--------
   2016 - | Grundare och ordförande, Blekinge förening för frisbeesport
   2010 - 2011 | Ordförande, Carlskrona volontairregemente
   1995 - 2003 | Diverse, Ungdomens hus i Karlskrona
-  1993 - 1999 | Ordförande, rollspelsföreningen Gripen
 
 ### Utbildning
 
@@ -78,14 +68,15 @@ jonas.schubert.erlandsson@gmail.com
 
 ## Tekniska
 
+* Arbetat med flera microservicesorienterade arkitekturer för stora företag.
+* Gedigen erfarenhet i att designa APIer enligt REST-principerna.
 * Föreläst på universitet och drivit internutbildningar kring kodkvalité, testning och designprinciper.
 * Konsultuppdrag för andra företag med att validera deras tekniska arkitektur och infrastruktursdesign.
 * Har kontinuerligt jobbat som fullstack webbutvecklare med en rad olika webbteknikerna sedan 1997.
 * Lång och varierad erfarenhet i att leda tekniska team och driva tekniska beslut.
 * Har utvecklat i: Go, Elixir, Ruby, Javascript, PHP, Java, C, C++, LUA, Pascal, Delphi, SML, Python, Assembler med flera.
 * Har jobbat med flera ramverk så som: Ruby on Rails, Sinatra, Rack, Ember, Backbone och React/Redux.
-* Mycket goda kunskaper inom webbstandarderna; HTML, XHTML, XML, CSS och Javascript/ES6.
-* Arbetar obehindrat i: Windows (95 - 10), Linux (shell, Gnome och Unity) och Mac OS X.
+* Mycket goda kunskaper inom webbstandarderna; HTML, JSON, CSS och Javascript/ES6.
 
 ## Allmänna
 

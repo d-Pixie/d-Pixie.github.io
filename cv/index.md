@@ -20,6 +20,16 @@ jonas.schubert.erlandsson@gmail.com
   2015 - 2016 | Replay Gaming Ltd, United Kingdom
   2010 - 2012 | A Bit of Blue, Sweden
 
+  Project/Architectural lead | &nbsp;
+-------|--------
+  March - December 2017 | VEON, Amsterdam (via Qvantel and Softhouse)
+  2015 - 2016 | Replay Gaming Ltd, United Kingdom
+  2012 - 2013 | Boss Media AB, Sweden
+  2012 | Standout AB, Sweden
+  2010 - 2012 | A Bit of Blue, Sweden
+  2006 - 2007 | Arméns flotta, Sweden
+  2002 - 2003 | Blekinge museum, Sweden
+
   Lead developer | &nbsp;
 -------|--------
   2017 - | Softhouse AB, Sweden
@@ -28,25 +38,6 @@ jonas.schubert.erlandsson@gmail.com
   2012 - 2013 | Boss Media AB, Sweden
   October - December 2009 | consulting for Baneki Privacy Computing Inc, USA
   June - August 2008 | Ericsson Software Technology, Sweden
-
-  Web developer | &nbsp;
--------|--------
-  January - November 2012 | Standout AB, Sweden
-  1997 - 2011 | application design under own management
-
-  Web designer | &nbsp;
--------|--------
-  1997 - 2011 | design and web hosting under own management
-  2006 - 2008 | consulting for stayaway.se
-
-  Project leader | &nbsp;
--------|--------
-  2015 - 2016 | Replay Gaming Ltd, United Kingdom
-  2012 - 2013 | Boss Media AB, Sweden
-  2012 | Standout AB, Sweden
-  2010 - 2012 | A Bit of Blue, Sweden
-  2006 - 2007 | Arméns flotta, Sweden
-  2002 - 2003 | Blekinge museum, Sweden
 
   Board member | &nbsp;
 -------|--------
@@ -77,14 +68,15 @@ jonas.schubert.erlandsson@gmail.com
 
 ## Featured
 
+* Worked with several micro services oriented architectures for major companies.
+* Solid experience in designing RESTful APIs.
 * Lectured at university and held internal training courses in code quality, testing and design principles.
 * Consults with other companies to validate their architecture and infrastructure designs.
 * Worked continuously with full stack web development using a wide variety of web technologies since 1997.
 * Long and varied experience in leading technical teams and driving technical decisions.
 * Developed in: Go, Elixir, Ruby, Javascript, PHP, Java, C, C++, LUA, Pascal, Delphi, SML, Python, Assembler and others.
 * Worked with many frameworks such as: Ruby on Rails, Sinatra, Rack, Ember, Backbone and React/Redux.
-* Very good knowledge of the web standards; HTML, XHTML, XML, CSS and Javascript/ES6.
-* Works in: Windows (95 - 10), Linux (shell, Gnome and Unity) and Mac OS X.
+* Very good knowledge of the web standards; HTML, JSON, CSS and Javascript/ES6.
 
 ## Misc
 
