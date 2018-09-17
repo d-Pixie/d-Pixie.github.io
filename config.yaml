@@ -1,0 +1,6 @@
+name: d-pixie
+pipeline: jekyll
+type: jekyll
+domains:
+  - d-pixie.se
+  - www.d-pixie.se
