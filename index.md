@@ -37,6 +37,6 @@ But one cannot only drink coffee and tea is another beverage that Jonas consumes
 
 So feel free to stop by for some home reared and cured bacon and a cup of the house black of the moment. If in luck you might get there when a batch of sausages are fresh from the stuffer and the house ale is chilled and ready as well ...
 
---------------
+----------------
 
 *Yes it's all written in third person. No I'm not mad, at least that is what all the voices insist ...*
